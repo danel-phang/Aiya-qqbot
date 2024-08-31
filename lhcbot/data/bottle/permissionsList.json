@@ -1,0 +1,13 @@
+{
+    "enableCooldown": false,
+    "cooldownTime": 3,
+    "bannedMessage": "",
+    "user": [],
+    "group": [],
+    "cooldown": {
+        "3689345059": 1712379504
+    },
+    "disreportable": [],
+    "whiteUser": [],
+    "whiteGroup": []
+}

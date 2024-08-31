@@ -1,0 +1,11 @@
+nonebot2==2.1.2
+nonebot-adapter-onebot
+nonebot2[fastapi]
+Pillow
+psutil
+requests
+sympy
+httpx
+
+
+
